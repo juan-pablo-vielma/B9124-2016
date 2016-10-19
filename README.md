@@ -22,7 +22,7 @@ To start off, we will be using the following packages:
 - Gadfly
 - Interact
 
-To install them, run the following code:
+To install them, run the following code (make sure you install IJulia as described above first):
 ```julia
 Pkg.add("JuMP")
 Pkg.add("GLPKMathProgInterface")
